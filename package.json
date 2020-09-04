@@ -1,0 +1,21 @@
+{
+  "name": "patient_management",
+  "version": "1.0.0",
+  "description": "Blockchain Patient Management System By Ethereum",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "lite-server",
+    "test": "test"
+  },
+  "author": "jaden rice",
+  "license": "ISC",
+  "devDependencies": {
+    "truffle-contract": "3.0.6"
+  },
+  "dependencies": {
+    "@truffle/contract": "^4.1.14"
+  }
+}
